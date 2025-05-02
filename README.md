@@ -26,13 +26,13 @@ with tools like [keepassXC](https://keepassxc.org/),
 
 - 👯 I’m looking to collaborate on all things embedded, Linux, or privacy related
 
-## Projects
+## Projects 🔨
 | Project | Descrption |
 | -------- | ------- |
 | [urbanC](https://github.com/JBank25/urbanC)| C based interpreted programming language |
 | [C++ messaging library](https://github.com/JBank25/Server-Client-Network)| library allowing creation of custom message types in client/server framework|
 
-## Tech I Use
+## Tech I Use 💻
 | Tool     | Description |
 | -------- | ------- |
 | [Arch](https://archlinux.org/)  | Elitist distro     |
@@ -42,5 +42,5 @@ with tools like [keepassXC](https://keepassxc.org/),
 | [Vim](https://www.vim.org/)    | Just the motions    |
 | [fuzzyfinder](https://junegunn.github.io/fzf/)    | Makes life in the command-line much better|
 
-## Connect with me
+## Connect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-urbank)
