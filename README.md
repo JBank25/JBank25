@@ -41,3 +41,6 @@ with tools like [keepassXC](https://keepassxc.org/),
 | [tmux](https://github.com/tmux/tmux/wiki)  | Terminal multiplexer     |
 | [Vim](https://www.vim.org/)    | Just the motions    |
 | [fuzzyfinder](https://junegunn.github.io/fzf/)    | Makes life in the command-line much better|
+
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-urbank)
