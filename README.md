@@ -31,6 +31,7 @@ with tools like [keepassXC](https://keepassxc.org/),
 | -------- | ------- |
 | [urbanC](https://github.com/JBank25/urbanC)| C based interpreted programming language |
 | [C++ messaging library](https://github.com/JBank25/Server-Client-Network)| library allowing creation of custom message types in client/server framework|
+| [My Blog](https://jurbank.substack.com/)| My blog discussing SW |
 
 ## Tech I Use 💻
 | Tool     | Description |
