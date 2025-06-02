@@ -18,11 +18,15 @@ Hello all 👋, my name is Joshua Urbank I am a developer based out of Austin,
 Texas. I am a big fan of embedded development specifically using languages like
 C/C++ and tools like Make, CMake, GDB, etc.
 
-- 🔭 I’m currently working on moving to an open-source centric computing
-experience using [Arch Linux](https://archlinux.org/) and de-clouding my life
-with tools like [keepassXC](https://keepassxc.org/),
-[Syncthing](https://syncthing.net/), and
-[rsync](https://linux.die.net/man/1/rsync)
+- 🔭 I’m currently working on my dev setup using [Neovim](https://neovim.io/)
+  as my primary editor. Understanding, installing, and configuring the
+appropriate [LSP's](https://neovim.io/doc/user/lsp.html) in particular is what
+I am working on within my neovim configuration. I have also begin early work on
+a productivity TUI application. The bare bones of the repo can be seen
+[here](https://github.com/JBank25/TrackerTui). This project is still in very
+early days and ramping on the [FTXUI
+library](https://arthursonzogni.github.io/FTXUI/) is my main focus after my
+initial project structure is in place.
 
 - 👯 I’m looking to collaborate on all things embedded, Linux, or privacy related
 
@@ -37,6 +41,7 @@ with tools like [keepassXC](https://keepassxc.org/),
 | Tool     | Description |
 | -------- | ------- |
 | [Arch](https://archlinux.org/)  | Elitist distro     |
+| [Neovim](https://neovim.io/)  | A very hands on editor |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/?xv=refresh-new&v=a)  | Good browser (when [uBlock](https://ublockorigin.com/) is installed)|
 | [ZSH](https://www.zsh.org/)  | A nice shell     |
 | [tmux](https://github.com/tmux/tmux/wiki)  | Terminal multiplexer     |
