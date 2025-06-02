@@ -45,7 +45,6 @@ initial project structure is in place.
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/?xv=refresh-new&v=a)  | Good browser (when [uBlock](https://ublockorigin.com/) is installed)|
 | [ZSH](https://www.zsh.org/)  | A nice shell     |
 | [tmux](https://github.com/tmux/tmux/wiki)  | Terminal multiplexer     |
-| [Vim](https://www.vim.org/)    | Just the motions    |
 | [fuzzyfinder](https://junegunn.github.io/fzf/)    | Makes life in the command-line much better|
 
 ## Connect 
