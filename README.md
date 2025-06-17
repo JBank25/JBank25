@@ -41,7 +41,7 @@ initial project structure is in place.
 | Tool     | Description |
 | -------- | ------- |
 | [Arch](https://archlinux.org/)  | Elitist distro     |
-| [Neovim](https://neovim.io/)  | A very hands on editor |
+| [Neovim](https://neovim.io/)  | A very hands on editor, [steal my config](https://github.com/JBank25/dotfiles/tree/main/nvim/.config/nvim) |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/?xv=refresh-new&v=a)  | Good browser (when [uBlock](https://ublockorigin.com/) is installed)|
 | [ZSH](https://www.zsh.org/)  | A nice shell     |
 | [tmux](https://github.com/tmux/tmux/wiki)  | Terminal multiplexer     |
